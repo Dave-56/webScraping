@@ -1,0 +1,7 @@
+#Tech we need for the project
+- Python 3.x
+- Selenium webdriver for chrome
+- Python libs (Pandas)
+
+#Goal - to build a collection of interesting open-source ML projects by scraping Github
+
