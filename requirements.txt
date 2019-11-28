@@ -2,6 +2,7 @@
 - Python 3.x
 - Selenium webdriver for chrome
 - Python libs (Pandas)
+- BeautifulSoup
 
-#Goal - to build a collection of interesting open-source ML projects by scraping Github
+#Goal - To learn how to scrap a website with selenium and beautiful soup
 
