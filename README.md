@@ -1,5 +1,5 @@
 # webScraping
 
-Basic Script to scrap projects on the github/collections/machinelearning page.
+Just Learning WebScraping
 
 Nothing Fancy :)
